@@ -4,7 +4,7 @@ https://colab.research.google.com/drive/1v_3WU8sKZhCEh0cqLrLcGVu15YRx6BC_?usp=sh
 Отчеты FastQC:<br>
 Контрольный<br>
 ![avatar](/images/Fstqc1FTO.png)
-![avatar](/images/Fstqc2FTO.png)
+![avatar](/images/Fstqs2FTO.png)
 ![avatar](/images/Fstqc3FTO.png)<br>
 NCFF292YKN<br>
 ![avatar](/images/Fstqc1.png)
